@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomAlert</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name_here">Enter Your Name Here</string>
+    <string name="help_us_know_u_more">Help us Know u more....</string>
+    <string name="click">Click</string>
+    <string name="loading_please_wait">Loading Please Wait...</string>
+</resources>
